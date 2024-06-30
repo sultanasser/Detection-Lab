@@ -13,8 +13,11 @@ This hannds-on experience was designed to deepen understanding of network securi
 - Development of critical thinking and problem solving skills in cybersecurity.
 
 ### Tools Used
-- A
-- B
-- C
-- D
+- A. Splunk SIEM system for log ingestion and analysis
+- B. Network analysis tools (such as wireshark) for capturing and examining network traffic
+- C. 
+- D.
 
+### Steps
+(Here, I'm going to drag and drop screenshots or use imgur and reference them using imgsrc)
+Every screenshot will have some text explaining what the sreenshot is about.
